@@ -48,5 +48,5 @@ function patchAll() {
 }
 ```
 
-when set `treeshake = false`. patchEventTarget doesn't disappear.
+when set `treeshake = false`, function `patchEventTarget` doesn't disappear.
 
